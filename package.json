@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "dotenv": "^14.2.0",
+    "dotenv": "^8.6.0",
     "pump": "^3.0.0",
     "websocket-stream": "^5.5.2"
   },
   "name": "ws2tcp-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
