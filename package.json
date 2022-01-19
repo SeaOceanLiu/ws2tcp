@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "pump": "^3.0.0",
+    "websocket-stream": "^5.5.2"
+  },
+  "name": "ws2tcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ws2tcp": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
