@@ -4,7 +4,7 @@
     "pump": "^3.0.0",
     "websocket-stream": "^5.5.2"
   },
-  "name": "ws2tcp",
+  "name": "ws2tcp-proxy",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
